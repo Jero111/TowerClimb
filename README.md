@@ -4,3 +4,4 @@ Integrar recompensas
 dificultad de los desafíos
 preparar clase de dificultades
 Uso de aniumacionnes para el personaje
+animacion de agacharse descartada
