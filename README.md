@@ -6,3 +6,4 @@ Implementar habilidades especiales del héroe
 Diseñar e integrar enemigos básicos
 tener los enemigos implementados y listos para la prueba.
  integración de habilidades
+Toca dibujar las plataformas
